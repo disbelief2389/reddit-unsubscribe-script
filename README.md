@@ -1,6 +1,6 @@
 ## One-Click Install
 Click the link below to install the script directly in Tampermonkey:
-[Install Reddit Unsubscribe Script](https://raw.githubusercontent.com/username/repo-name/main/reddit-unsubscribe.user.js)
+[Install Reddit Unsubscribe Script](https://raw.githubusercontent.com/disbelief2389/reddit-unsubscribe-script/refs/heads/main/RedditUnsubscribeScript.js)
 
 # Reddit Unsubscribe Script
 
