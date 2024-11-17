@@ -1,3 +1,7 @@
+## One-Click Install
+Click the link below to install the script directly in Tampermonkey:
+[Install Reddit Unsubscribe Script](https://raw.githubusercontent.com/username/repo-name/main/reddit-unsubscribe.user.js)
+
 # Reddit Unsubscribe Script
 
 This is a Tampermonkey script to automatically unsubscribe from all Reddit subreddits in bulk. It’s ideal for users who want to declutter their Reddit subscriptions.
