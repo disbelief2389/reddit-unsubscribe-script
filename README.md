@@ -16,11 +16,22 @@ This is a Tampermonkey script to automatically unsubscribe from all Reddit subre
 
 ## Installation
 1. Install Tampermonkey for your browser:
-   - [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-   - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-   - [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-2. Click the "Raw" button on the script file in this repository.
-3. Tampermonkey will prompt you to install the script. Click **Install**.
+   - [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo);
+   - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/);
+   - [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd);
+
+![firefox_EWoSgallrr](https://github.com/user-attachments/assets/08b2d4a4-ce87-4f06-995f-2b9744c7a320)
+
+2. Use this [one-click install link](https://raw.githubusercontent.com/disbelief2389/reddit-unsubscribe-script/refs/heads/main/RedditUnsubscribeScript.js) to get the script. Copy it to clipboard. Make sure there are minimal conflicts for the extension;
+
+![firefox_1Ogg33MRVU](https://github.com/user-attachments/assets/bebe3367-ccc3-4ad2-ad1b-881a56aea772)
+![firefox_X9LJNvf99i](https://github.com/user-attachments/assets/fda1fca3-b121-4c2f-94b0-cdfcd8ca78bb)
+
+3. Go to your [Reddit Subscriptions Page](https://www.reddit.com/subreddits).
+
+![firefox_BDuf4bBYFg](https://github.com/user-attachments/assets/1eec1b88-1950-4c42-b876-d04dd0079445)
+
+4. Watch the magic happen!
 
 ## Usage
 1. Navigate to [Reddit’s subscription page](https://www.reddit.com/subreddits).
