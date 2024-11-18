@@ -4,7 +4,7 @@
 // @version      2.4
 // @description  Unsubscribes from all subreddits by targeting <a> elements.
 // @author       cross7139
-// @match        https://www.reddit.com/subreddits
+// @include      https://www.reddit.com/subreddits*
 // @grant        none
 // ==/UserScript==
 
